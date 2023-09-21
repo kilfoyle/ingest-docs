@@ -8,6 +8,8 @@ include::{docs-root}/shared/attributes.asciidoc[]
 :tab-widgets: {fleet-repo-dir}/tab-widgets
 :code-path: {tab-widgets}/code
 
+:flag-serverless: no
+
 :fleet-server-issue: https://github.com/elastic/fleet-server/issues/
 :policy: policy
 :artifact-registry: Elastic artifact registry
