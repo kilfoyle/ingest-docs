@@ -360,6 +360,8 @@ The 8.11.0 release Added the following new and notable features.
 * Increase wait period between service restarts on failure to 15s on Windows. {agent-pull}3657[#3657]
 * Prevent multiple attempts by {agent} to stop an already stopped service. {agent-pull}3482[#3482]
 
+TEST
+
 // end 8.11.0 relnotes
 
 
